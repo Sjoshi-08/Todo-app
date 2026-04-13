@@ -8,5 +8,5 @@ This is a simple TO-do application built using Python.
 - Delete tasks easily
 - Interactive command-line interface
 
-#language:
+#language
 -Python
